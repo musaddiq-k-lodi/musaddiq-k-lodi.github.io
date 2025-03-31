@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Musaddiq Lodi"
 title_separator          : "-"
 name                     : &name "Musaddiq Lodi"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Musaddiq Lodi"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student | Single Cell Biology, Bioinformatics, AI/ML"
   location         : "Richmond, VA"
   employer         : "Virginia Commonwealth Univeristy"
   uri              : # URL
