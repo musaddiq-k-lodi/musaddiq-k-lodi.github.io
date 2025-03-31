@@ -1,12 +1,11 @@
 ---
 title: "COFFEE: Consensus Single Cell-Type Specific Inference for Gene Regulatory Networks"
 collection: publications
-category: conferences
+category: manuscript
 permalink: /publication/coffee
 excerpt: 'Python software for wisdom of crowds marker gene inference on scRNAseq data.'
 date: 2024-09-23
 venue: Briefings in Bioinformatics
-paperurl: ''
 citation: 'Lodi MK, Chernikov A, Ghosh P. COFFEE: Consensus Single Cell-Type Specific Inference for Gene Regulatory Networks. Brief Bioinform. 2024;25(6):bbae457. doi:10.1093/bib/bbae457.'
 ---
 
