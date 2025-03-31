@@ -49,11 +49,11 @@ Machine Learning, Deep Learning, Large Language Models, Python, R, TensorFlow, P
 
 ## Publications
 
-1. Lodi MK, Clark L, Roy S, Ghosh P. CORTADO: Hill Climbing Optimization for Cell-Type Specific Marker Gene Discovery. bioRxiv [Preprint]. 2024 Dec 23:2024.12.23.630040. doi:10.1101/2024.12.23.630040. PMID: 39763976; PMCID: PMC11703242.
-2. Pateras J, Lodi MK, Rana P, Ghosh P. Heterogeneous Clustering of Multiomics Data for Breast Cancer Subgroup Classification and Detection. Int J Mol Sci. 2025;26(4):1707. doi:10.3390/ijms26041707. PMID: 40004168; PMCID: PMC11855380.
-3. Cohen DJ, Van Duyn CM, Deng J, Lodi MK, Gallagher MB, Sugar JT, Rawlinson JJ, Ghosh P, Boyan BD, Schwartz Z. Bone Marrow Stromal Cells Generate a Pro-Healing Inflammasome When Cultured on Titanium–Aluminum–Vanadium Surfaces with Microscale/Nanoscale Structural Features. Biomimetics. 2025;10(1):66. doi:10.3390/biomimetics10010066.
-4. Lodi MK, Lodi M, Osei K, Ranganathan V, Hwang P, Ghosh P. CHAI: Consensus Clustering Through Similarity Matrix Integration for Cell-Type Identification. Brief Bioinform. 2024;25(5):bbae411. doi:10.1093/bib/bbae411.
-5. Lodi MK, Chernikov A, Ghosh P. COFFEE: Consensus Single Cell-Type Specific Inference for Gene Regulatory Networks. Brief Bioinform. 2024;25(6):bbae457. doi:10.1093/bib/bbae457.
+1. **Lodi MK**, Clark L, Roy S, Ghosh P. CORTADO: Hill Climbing Optimization for Cell-Type Specific Marker Gene Discovery. bioRxiv [Preprint]. 2024 Dec 23:2024.12.23.630040. doi:10.1101/2024.12.23.630040. PMID: 39763976; PMCID: PMC11703242.
+2. Pateras J, **Lodi MK**, Rana P, Ghosh P. Heterogeneous Clustering of Multiomics Data for Breast Cancer Subgroup Classification and Detection. Int J Mol Sci. 2025;26(4):1707. doi:10.3390/ijms26041707. PMID: 40004168; PMCID: PMC11855380.
+3. Cohen DJ, Van Duyn CM, Deng J, **Lodi MK**, Gallagher MB, Sugar JT, Rawlinson JJ, Ghosh P, Boyan BD, Schwartz Z. Bone Marrow Stromal Cells Generate a Pro-Healing Inflammasome When Cultured on Titanium–Aluminum–Vanadium Surfaces with Microscale/Nanoscale Structural Features. Biomimetics. 2025;10(1):66. doi:10.3390/biomimetics10010066.
+4. **Lodi MK**, Lodi M, Osei K, Ranganathan V, Hwang P, Ghosh P. CHAI: Consensus Clustering Through Similarity Matrix Integration for Cell-Type Identification. Brief Bioinform. 2024;25(5):bbae411. doi:10.1093/bib/bbae411.
+5. **Lodi MK**, Chernikov A, Ghosh P. COFFEE: Consensus Single Cell-Type Specific Inference for Gene Regulatory Networks. Brief Bioinform. 2024;25(6):bbae457. doi:10.1093/bib/bbae457.
 ---
 
 ## Projects - In Progress
