@@ -10,7 +10,10 @@
 main:
   - title: "Publications"
     url: /publications/ 
-    
+  
+  - title: "Reserach"
+    url: /research/
+
   - title: "Software"
     url: /software/
 
