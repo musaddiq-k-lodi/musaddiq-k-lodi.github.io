@@ -1,7 +1,8 @@
 ---
-permalink: /software/
+layout: archive
 title: "Software"
-
+permalink: /software/
+author_profile: true
 ---
 
 I build open-source packages in Python and R to advance researcher's understandings of single cell biology and multi-omic data integration.
