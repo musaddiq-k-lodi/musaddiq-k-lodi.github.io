@@ -6,10 +6,6 @@ author_profile: true
 ---
 ### Research Interests  
 
-I specialize in developing computational methods for single-cell multiomics analysis, with a strong focus on improving key analytical tasks in single-cell RNA sequencing (scRNAseq). My research spans three major areas:  
+My research focuses on developing computational methods for single-cell multiomics analysis, with an emphasis on improving key analytical tasks in single-cell RNA sequencing (scRNAseq). I am particularly interested in advancing algorithms for analyzing cellular heterogeneity, understanding gene regulatory networks, and integrating multiomic datasets to uncover biologically meaningful patterns.  
 
-1. **Designing novel algorithms** for cell type identification, gene regulatory network (GRN) inference, and marker gene identification.  
-2. **Applying state-of-the-art single-cell analysis tools** to gain disease-specific insights in contexts such as Duchenne Muscular Dystrophy, cancer therapeutics, and immune system interactions in blood cancer.  
-3. **Integrating bulk and single-cell data** to enhance multiomic analyses.  
-
-Through my work, I aim to bridge the gap between computational method development and biomedical applications, ensuring that cutting-edge analytical tools contribute to meaningful biological discoveries. By combining robust computational frameworks with interdisciplinary collaborations, I strive to uncover key molecular mechanisms underlying complex diseases and improve our understanding of cellular heterogeneity in health and disease.
+In addition to method development, I apply state-of-the-art computational tools to gain insights into complex diseases, such as Duchenne Muscular Dystrophy and various cancers. By bridging computational innovation with biomedical applications, my work aims to enhance our understanding of cellular behavior and contribute to the development of precision medicine approaches.
