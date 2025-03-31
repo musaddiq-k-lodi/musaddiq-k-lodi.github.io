@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
 ### Research Interests  
 
 I specialize in developing computational methods for single-cell multiomics analysis, with a strong focus on improving key analytical tasks in single-cell RNA sequencing (scRNAseq). My research spans three major areas:  
