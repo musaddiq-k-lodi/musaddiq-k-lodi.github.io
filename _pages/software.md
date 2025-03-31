@@ -23,7 +23,7 @@ import cortado_marker as cortado
 ```
 
 # COFFEE
-<img width="598" alt="image" src="https://github.com/user-attachments/assets/09d42c6a-7695-478b-9087-a3b711c6f17a" />
+<img width="1059" alt="image" src="https://github.com/user-attachments/assets/3ef076ce-8b0f-4066-93b2-c14040b62b2d" />
 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green) ![Docs](https://img.shields.io/badge/docs-passing-brightgreen) 
