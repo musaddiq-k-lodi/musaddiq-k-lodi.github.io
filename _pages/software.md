@@ -23,11 +23,19 @@ import cortado_marker as cortado
 ```
 
 # COFFEE
-<img width="1070" alt="coffee_flowchart" src="https://github.com/user-attachments/assets/129eaf07-780f-4b96-95e8-a4ee320effef" />
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/09d42c6a-7695-478b-9087-a3b711c6f17a" />
+
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green) ![Docs](https://img.shields.io/badge/docs-passing-brightgreen) 
 
 COFFEE is a Python software for single cell gene regulatory network inference. For a full description of the method as well as the user guide, please see the GitHub repository. 
 
+# CHAI
+<img width="1070" alt="coffee_flowchart" src="https://github.com/user-attachments/assets/129eaf07-780f-4b96-95e8-a4ee320effef" />
 
+![R](https://img.shields.io/badge/R-4.0%2B-276DC3?logo=r&logoColor=white)  
+![License](https://img.shields.io/badge/License-MIT-green)  
+![Docs](https://img.shields.io/badge/docs-passing-brightgreen)  
+
+CHAI is a R package for consensus single cell-type identification. For a full description of the method as well as the user guide, please see the GitHub repository. 
 
