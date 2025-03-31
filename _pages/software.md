@@ -25,7 +25,7 @@ I build open-source packages in Python and R to advance researcher's understandi
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green) ![Docs](https://img.shields.io/badge/docs-passing-brightgreen) 
 
-CORTADO is a PyPi [CORTADO]([https://cran.r-project.org/package=BayesPostEst](https://github.com/lodimk2/cortado-marker)) package for robust marker gene inference. For a full description of the method as well as the user guide, please see the GitHub repository. 
+CORTADO is a PyPi package for robust marker gene inference. For a full description of the method as well as the user guide, please see the GitHub repository. 
 
 
 ### Install CORTADO
