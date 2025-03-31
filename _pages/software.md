@@ -21,9 +21,7 @@ header:
 I build open-source packages in Python and R to advance researcher's understandings of single cell biology and multi-omic data integration.
 # CORTADO
 
-[![R build status](https://github.com/ShanaScogin/BayesPostEst/workflows/R-CMD-check/badge.svg)](https://github.com/ShanaScogin/BayesPostEst/actions)
-[![Codecov test coverage](https://codecov.io/gh/ShanaScogin/BayesPostEst/branch/master/graph/badge.svg)](https://codecov.io/gh/ShanaScogin/BayesPostEst?branch=master)
-
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green) ![Docs](https://img.shields.io/badge/docs-passing-brightgreen) 
 CORTADO is a PyPi [CORTADO]([https://cran.r-project.org/package=BayesPostEst](https://github.com/lodimk2/cortado-marker)) package for robust marker gene inference. For a full description of the method as well as the user guide, please see the GitHub repository. 
 {% include gallery %}
 
