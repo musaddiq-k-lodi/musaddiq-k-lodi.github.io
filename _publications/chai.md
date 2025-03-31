@@ -2,7 +2,7 @@
 title: "CHAI: consensus clustering through similarity matrix integration for cell-type identification "
 collection: publications
 category: manuscripts
-permalink: /publication/chai.md
+permalink: /publication/chai
 excerpt: 'Consensus clustering algorithm for scRNAseq cell-type identification'
 date: 2024-8-29
 venue: 'Briefings in Bioinformatics'
