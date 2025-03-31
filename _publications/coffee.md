@@ -2,7 +2,7 @@
 title: "COFFEE: Consensus Single Cell-Type Specific Inference for Gene Regulatory Networks"
 collection: publications
 category: conferences
-permalink: /publication/ijms
+permalink: /publication/coffee
 excerpt: 'Python software for wisdom of crowds marker gene inference on scRNAseq data.'
 date: 2024-09-23
 venue: Briefings in Bioinformatics
