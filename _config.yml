@@ -13,9 +13,9 @@ title                    : "Musaddiq Lodi"
 title_separator          : "-"
 name                     : &name "Musaddiq Lodi"
 description              : &description "personal description"
-url                      : https://lodimk2.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://musaddiq-k-lodi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lodimk2/lodimk2.github.io"
+repository               : "musaddiq-k-lodi/musaddiq-k-lodi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   location         : "Richmond, VA"
   employer         : "Virginia Commonwealth Univeristy"
   uri              : # URL
-  email            : "lodimk2@vcu.edu" 
+  email            : "musaddiq.k.lodi@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
