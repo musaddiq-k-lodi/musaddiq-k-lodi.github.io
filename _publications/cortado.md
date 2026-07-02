@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/cortado
 excerpt: 'Python package for robust single cell marker gene inference'
-date: 2026-13-4
+date: 2026-04-13
 venue: 'Bioinformatics Advances'
 citation: 'Musaddiq K Lodi, Leiliani Clark, Satyaki Roy, Preetam Ghosh, CORTADO: hill climbing optimization for cell-type specific marker gene discovery and clustering accuracy improvement, Bioinformatics Advances, Volume 6, Issue 1, 2026, vbag106, https://doi.org/10.1093/bioadv/vbag106'
 ---
