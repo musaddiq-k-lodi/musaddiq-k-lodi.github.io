@@ -1,11 +1,11 @@
 ---
-title: "CORTADO: Hill Climbing Optimization for Cell-Type Specific Marker Gene Discovery"
+title: "CORTADO: Hill Climbing Optimization for Cell-Type Specific Marker Gene Discovery and Clustering Accuracy Improvement"
 collection: publications
 category: manuscripts
 permalink: /publication/cortado
 excerpt: 'Python package for robust single cell marker gene inference'
-date: 2024-12-23
-venue: 'Biorxiv'
-citation: 'Lodi MK, Clark L, Roy S, Ghosh P. CORTADO: Hill Climbing Optimization for Cell-Type Specific Marker Gene Discovery. bioRxiv [Preprint]. 2024 Dec 23:2024.12.23.630040. doi:10.1101/2024.12.23.630040. PMID: 39763976; PMCID: PMC11703242.'
+date: 2026-13-4
+venue: 'Bioinformatics Advances'
+citation: 'Musaddiq K Lodi, Leiliani Clark, Satyaki Roy, Preetam Ghosh, CORTADO: hill climbing optimization for cell-type specific marker gene discovery and clustering accuracy improvement, Bioinformatics Advances, Volume 6, Issue 1, 2026, vbag106, https://doi.org/10.1093/bioadv/vbag106'
 ---
 The advent of single-cell RNA sequencing (scRNA-seq) has greatly enhanced our ability to explore cellular heterogeneity with high resolution. Identifying subpopulations of cells and their associated molecular markers is crucial in understanding their distinct roles in tissues. To address the challenges in marker gene selection, we introduce CORTADO, a computational framework based on hill-climbing optimization for the efficient discovery of cell-type-specific markers. CORTADO optimizes three critical properties: differential expression in the clusters of interest, distinctiveness in gene expression profiles to minimize redundancy, and sparseness to ensure a concise and biologically meaningful marker set. Unlike traditional methods that rely on ranking genes by p-values, CORTADO incorporates both differential expression metrics and penalties for overlapping expression profiles, ensuring that each selected marker uniquely represents its cluster while maintaining biological relevance. Its flexibility supports both constrained and unconstrained marker selection, allowing users to specify the number of markers to identify, making it adaptable to diverse analytical needs and scalable to datasets with varying complexities. To validate its performance, we apply CORTADO to several datasets, including the DLPFC 151507 dataset, the Zeisel mouse brain dataset, and a peripheral blood mononuclear cell dataset. Through enrichment analysis and examination of spatial localization-based expression, we demonstrate the robustness of CORTADO in identifying biologically relevant and non-redundant markers in complex datasets. CORTADO provides an efficient and scalable solution for cell-type marker discovery, offering improved sensitivity and specificity compared to existing methods.
