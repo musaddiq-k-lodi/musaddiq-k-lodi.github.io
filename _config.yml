@@ -23,22 +23,22 @@ repository               : "musaddiq-k-lodi/musaddiq-k-lodi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "headshot.jpeg"
+  name             : "Musaddiq Lodi, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computational Biology, AI/ML, Single Cell Omics"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "-"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "musaddiq.k.lodi@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=X6_iK-wAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "musaddiq-k-lodi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/musaddiq-lodi-phd-6410b8268/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -84,8 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+#  books:
+#    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
