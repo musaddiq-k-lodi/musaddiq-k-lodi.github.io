@@ -21,9 +21,8 @@ redirect_from:
 # Summary
 
 - PhD Candidate and AI/ML Scientist specializing in single-cell genomics, spatial transcriptomics, and multimodal biological data for disease modeling and therapeutic discovery.
-- Expertise in deep learning and representation learning, including transformers, graph neural networks, and foundation models applied to regulatory genomics and cellular state modeling.
-- Developed end-to-end machine learning pipelines for large-scale biological datasets using Python, PyTorch, TensorFlow, and R, with an emphasis on interpretability and biological relevance.
-- Focused on translating computational insights into therapeutic hypotheses, biomarker discovery, and mechanistic understanding through integrative multiomics analysis.
+- Expertise in deep learning and representation learning, including transformers, graph neural networks, and foundation models applied to cellular state modeling.
+- Developed end-to-end machine learning and bioinformatics pipelines for large-scale biological datasets using Python, PyTorch, TensorFlow, and R, with an emphasis on interpretability and biological relevance.
 
 ---
 
