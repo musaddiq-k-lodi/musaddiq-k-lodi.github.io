@@ -13,7 +13,7 @@ redirect_from:
 
 📞 703-346-0475  
 ✉️ musaddiq.k.lodi@gmail.com  
-🔗 https://linkedin.com/in/musaddiq-lodi  
+🔗 https://www.linkedin.com/in/musaddiq-lodi-phd-6410b8268/
 💻 https://github.com/lodimk2
 
 ---
