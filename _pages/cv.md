@@ -180,8 +180,5 @@ doi:10.1093/bib/bbae457
 
 # Awards & Recognition
 
-- **Early Career Student Researcher Award** — Virginia Commonwealth University (2025)
+- **Early Career Student Researcher Award** — Virginia Commonwealth University Department of Computer Science (2025)
 - **Provost Scholar (Full Tuition Scholarship)** — Virginia Commonwealth University (2019–2023)
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
